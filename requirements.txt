@@ -1,0 +1,13 @@
+FastAPI
+uvicorn
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+pydantic
+SQLAlchemy
+joblib
+jupyter
+pyarrow
+wordcloud
