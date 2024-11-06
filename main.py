@@ -13,14 +13,12 @@ app = FastAPI(
 # Cargar los datasets en memoria
 # Definir las rutas de los archivos
 ruta_movies = 'Datasets/movies_df.parquet'
-ruta_credits = 'Datasets/credits_df.parquet'
 ruta_crew = 'Datasets/crew_df.parquet'
 ruta_cast = 'Datasets/cast_df.parquet'
 
 
 # Cargar los archivos Parquet en DataFrames
 movies_df = pd.read_parquet(ruta_movies)
-credits_df = pd.read_parquet(ruta_credits)
 crew_df = pd.read_parquet(ruta_crew)
 cast_df = pd.read_parquet(ruta_cast)
 
