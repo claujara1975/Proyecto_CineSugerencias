@@ -1,18 +1,17 @@
 # 🎬 Proyecto_CineSugerencias  
 
-![Póster de película](https://github.com/tu_usuario/tu_repositorio/raw/main/documentos/pelis.png)
-
-
 ## Proyecto Individual Nº1: Machine Learning Operations (MLOps)
 
 ¡Bienvenidos a **Proyecto_CineSugerencias**! 🌟  
 Este es el primer proyecto de la etapa de Labs, en el cual asumo el rol de **MLOps Engineer**. Llevo a cabo el ciclo completo para construir un sistema de recomendación de películas, desde la preparación de datos hasta el desarrollo y despliegue de una API funcional usando **FastAPI**.  
+
 🎯 **Objetivo**: Crear un sistema que ofrezca recomendaciones personalizadas y pueda ser consumido por otros equipos en una start-up que agrega plataformas de streaming.
 
 ---
 
 ## 🌐 Contexto y Descripción del Problema  
 Como nuevo integrante de una start-up, enfrenté el desafío de desarrollar un sistema de recomendación para películas a partir de datos sin procesar. Estos datos presentaban estructuras anidadas y valores faltantes.  
+
 💡 En este proyecto, mi tarea fue realizar ingeniería de datos y crear un **Minimum Viable Product (MVP)** en un plazo limitado.
 
 ---
@@ -43,6 +42,7 @@ Para preparar los datos de manera rápida y efectiva, se realizaron las siguient
 
 ## 🚀 Desarrollo de la API  
 Utilicé **FastAPI** para disponibilizar los datos transformados mediante endpoints clave.  
+
 🔑 **Funciones implementadas**:  
 
 - `/cantidad_filmaciones_mes(mes)`: Devuelve la cantidad de películas estrenadas en un mes dado.  
@@ -98,9 +98,3 @@ El proyecto se ha desplegado en **Render**.
 ## 🎉 Agradecimientos  
 ¡Gracias por revisar **Proyecto_CineSugerencias**!  
 Espero que el sistema de recomendaciones sea útil y eficiente. 😄
-📂 Datos Utilizados
-movies_dataset.parquet
-credits.parquet
-📖 El proyecto incluye un diccionario de datos para facilitar la comprensión de las columnas.
-
-🎉 ¡Gracias por revisar Proyecto_CineSugerencias! Espero que este sistema de recomendaciones sea útil y eficiente.
