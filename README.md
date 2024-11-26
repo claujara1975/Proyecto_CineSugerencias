@@ -1,4 +1,8 @@
 # 🎬 Proyecto_CineSugerencias  
+
+![Banner de Películas](C:\Users\NOTEBOOK\Desktop\Proyecto_CineSugerencias\documentos\pelis.png)
+
+
 ## Proyecto Individual Nº1: Machine Learning Operations (MLOps)
 
 ¡Bienvenidos a **Proyecto_CineSugerencias**! 🌟  
